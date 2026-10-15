@@ -166,7 +166,7 @@ Video cost for a 12-second reel made of three clips:
 | 1080p | $1.46 |
 
 The writing adds about $0.13. Five reels run end to end at 480p on
-15 Oct 2026 cost **$0.42 each on average**.
+15 Oct 2026 cost **$0.42 each on average**. The cost could be more.
 
 These are computed figures. Check them against fal.ai/dashboard/usage before
 you bill anyone.
